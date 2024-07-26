@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrf9SIondFTDW7GszOj0Pnz1IDkzTRfltLVwTFOYtl1xnix2D9g5AsudW32_2v1VyL6Cw&usqp=CAU/s1600/2000_600px.gif)](https://souvikd03.io)
 <h1 align="center">Hi 👋, I'm Souvik Dey</h1>
 <h3 align="center">I am a motivated and enthusiastic individual with a passion in IT Services. <br>I am a dedicated and hardworking person with excellent communication and interpersonal skills. <br>My proactive nature allows me to excel in a team environment, while my strong analytical and problemsolving skills enable me to work independently..</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
