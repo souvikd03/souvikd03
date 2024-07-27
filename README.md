@@ -1,6 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)]
 <h1 align="center">Hi 👋, I'm Souvik Dey</h1>
 <h3 align="center">I am a motivated and enthusiastic individual with a passion in IT Services. <br>I am a dedicated and hardworking person with excellent communication and interpersonal skills. <br>My proactive nature allows me to excel in a team environment, while my strong analytical and problemsolving skills enable me to work independently..</h3>
-<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
